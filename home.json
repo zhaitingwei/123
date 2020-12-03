@@ -1,0 +1,45 @@
+{
+    "swiperList": {
+        "list": [
+            {"id": 1, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605519524480&di=3ec25c73a64505d564da332dd2ec0278&imgtype=0&src=http%3A%2F%2Fa3.att.hudong.com%2F02%2F38%2F01300000237560123245382609951.jpg" },
+            {"id": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605519524480&di=89e93b5cd87d51a0d3e0374520253fdc&imgtype=0&src=http%3A%2F%2Fa1.att.hudong.com%2F05%2F00%2F01300000194285122188000535877.jpg" },
+            {"id": 3, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605519524479&di=f61b1707001925843f62024e22d97733&imgtype=0&src=http%3A%2F%2Fa3.att.hudong.com%2F55%2F22%2F20300000929429130630222900050.jpg" },
+            {"id": 4, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605519524479&di=b39c3bbbacc6bb43616049c1c6b3d53a&imgtype=0&src=http%3A%2F%2Fa2.att.hudong.com%2F27%2F81%2F01200000194677136358818023076.jpg" }
+        ]
+    },
+    "liveList": {
+        "list": [
+            {"type": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605701295006&di=d472e60d5003f7c3847a198e4d8521b3&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg"},
+            {"type": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605701295006&di=d472e60d5003f7c3847a198e4d8521b3&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg"},
+            {"type": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605701295006&di=d472e60d5003f7c3847a198e4d8521b3&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg"},
+            {"type": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605701295006&di=d472e60d5003f7c3847a198e4d8521b3&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg"},
+            {"type": 2, "src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605701295006&di=d472e60d5003f7c3847a198e4d8521b3&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F27%2F67%2F01300000921826141299672233506.jpg"}
+        ]
+    },
+    "articleList": {
+        "list": [
+            {
+                "id": 1,
+                "tit": "心绞痛",
+                "author": "徐总",
+                "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605707118766&di=dd65a148b653197049c27c86e0a88c54&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F10%2F20170610192627_yhAMN.thumb.700_0.jpeg",
+                "content": "主任医师"
+            },
+            {
+                "id": 2,
+                "tit": "冠心病痛",
+                "author": "姣总",
+                "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605707118766&di=dd65a148b653197049c27c86e0a88c54&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F10%2F20170610192627_yhAMN.thumb.700_0.jpeg",
+                "content": "副主任医师"
+            },
+            {
+                "id": 3,
+                "tit": "冠心病痛",
+                "author": "姣总",
+                "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605707118766&di=dd65a148b653197049c27c86e0a88c54&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F10%2F20170610192627_yhAMN.thumb.700_0.jpeg",
+                "content": "副主任医师"
+            }
+        ]
+    }
+    
+}
