@@ -1,5 +1,5 @@
 
-}const koa = require('koa')
+const koa = require('koa')
 const app = new koa()
 const router = require('koa-router')
 const app1 = new router() // 路由
