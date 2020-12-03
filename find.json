@@ -1,0 +1,26 @@
+{
+    "diseaseName": {
+        "list": [
+            {"type": 1, "title": "甲肝"},
+            {"type": 2, "title": "乙肝"},
+            {"type": 3, "title": "饼干"}
+        ]
+    },
+    "diseaseArticle": {
+        "list": [
+            [
+                {"content": "我有甲肝"},
+                {"content": "我没甲肝"},
+                {"content": "我不知道有没有甲肝"}
+            ],
+            [
+                {"content": "我有乙肝"},
+                {"content": "我没乙肝"},
+                {"content": "我不知道有没有乙肝"}
+            ],
+            [
+                {"content": "我真的没有饼干"}
+            ]
+        ]
+    }
+}
